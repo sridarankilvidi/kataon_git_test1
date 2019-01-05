@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 71.0.3578.98,,2019-01-05 17:01:48,2019-01-05 17:01:56,7.688s,PASSED
+,,,,,,
+Test Cases/testcase1-from sridaran,Chrome 71.0.3578.98,,2019-01-05 17:01:48,2019-01-05 17:01:56,7.431s,PASSED
+"openBrowser("""")",Chrome 71.0.3578.98,,2019-01-05 17:01:49,2019-01-05 17:01:52,3.241s,PASSED
+"navigateToUrl(""http://www.facebook.com"")",Chrome 71.0.3578.98,,2019-01-05 17:01:52,2019-01-05 17:01:55,3.109s,PASSED
+closeBrowser(),Chrome 71.0.3578.98,,2019-01-05 17:01:55,2019-01-05 17:01:56,0.733s,PASSED
